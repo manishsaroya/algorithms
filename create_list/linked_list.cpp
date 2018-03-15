@@ -50,6 +50,7 @@ class List{
 			std::cout<<"have inserted the element"<<cursor->d<<std::endl;
 		}
 
+
 		void printList(void)
 		{
 			T* iterate = head;
